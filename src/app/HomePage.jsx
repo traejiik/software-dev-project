@@ -1,6 +1,6 @@
 import '../index.css'
 
-function App() {
+function HomePage() {
   return (
     <>
       <div className="flex h-screen w-full items-center justify-center bg-slate-900">
@@ -10,4 +10,4 @@ function App() {
   )
 }
 
-export default App
+export default HomePage
